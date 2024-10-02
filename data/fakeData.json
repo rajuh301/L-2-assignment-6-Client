@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "Zoey Lang",
+        "username": "@zoeylang",
+        "avatar": "https://nextui.org/avatars/avatar-1.png",
+        "postText": "Frontend developer and UI/UX enthusiast. Join me on this coding adventure!",
+        "images": [
+            "https://via.placeholder.com/400x200",
+            "https://via.placeholder.com/400x200",
+            "https://via.placeholder.com/400x200"
+        ],
+        "likes": 124,
+        "comments": 30,
+        "dislikes": 5,
+        "followers": "97.1K",
+        "following": 4,
+        "hashtag": "#FrontendWithZoey"
+    },
+    {
+        "id": 2,
+        "name": "John Doe",
+        "username": "@johndoe",
+        "avatar": "https://nextui.org/avatars/avatar-2.png",
+        "postText": "Building amazing apps with React.js!",
+        "images": [
+            "https://via.placeholder.com/400x200",
+            "https://via.placeholder.com/400x200"
+        ],
+        "likes": 150,
+        "comments": 45,
+        "dislikes": 2,
+        "followers": "15.5K",
+        "following": 10,
+        "hashtag": "#ReactRocks"
+    },
+    {
+        "id": 3,
+        "name": "Jane Smith",
+        "username": "@janesmith",
+        "avatar": "https://nextui.org/avatars/avatar-3.png",
+        "postText": "Exploring new UX designs and patterns.",
+        "images": [
+            "https://via.placeholder.com/400x200"
+        ],
+        "likes": 85,
+        "comments": 20,
+        "dislikes": 7,
+        "followers": "22.3K",
+        "following": 12,
+        "hashtag": "#UXDesign"
+    }
+]
