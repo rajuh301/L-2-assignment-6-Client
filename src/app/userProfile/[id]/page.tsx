@@ -11,9 +11,13 @@ export default function UserProfile() {
     const id = params.id;
 
 
-    const { data: user, isLoading, error } = useGetSingleuser(id as string);
 
+
+    const { data: user, isLoading, error } = useGetSingleuser(id as string);
     const userInfo = user?.data;
+
+
+
 
 
 
@@ -38,8 +42,8 @@ export default function UserProfile() {
                         color="primary"
                         radius="full"
                         size="sm"
-                        // variant={isFollowed ? "bordered" : "solid"}
-                        // onPress={() => setIsFollowed(!isFollowed)}
+                    // variant={isFollowed ? "bordered" : "solid"}
+                    // onPress={() => setIsFollowed(!isFollowed)}
                     >
                         {/* {isFollowed ? "Unfollow" : "Follow"} */}
                         Follow
